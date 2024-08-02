@@ -53,7 +53,9 @@ namespace ZipFileExtractorGUI
 
             if (string.IsNullOrWhiteSpace(txtZipFilePath.Text) || string.IsNullOrWhiteSpace(txtDestinationPath.Text))
             {
+                lblStatus.Text = "Error!";
                 MessageBox.Show("Please select both source zip files and destination path.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                lblStatus.Text = "Ready";
                 return;
             }
 
@@ -113,11 +115,11 @@ namespace ZipFileExtractorGUI
             txtZipFilePath.Text = string.Empty;
         }
 
-        private void LogError(string message)
-        {
-            string logFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "error log");
-            File.AppendAllText(logFilePath, $"{DateTime.Now}: {message}{Environment.NewLine}");
-        }
+        //private void LogError(string message)
+        //{
+        //    string logFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "error log");
+        //    File.AppendAllText(logFilePath, $"{DateTime.Now}: {message}{Environment.NewLine}");
+        //}
 
         private void button1_Click(object sender, EventArgs e)
         {

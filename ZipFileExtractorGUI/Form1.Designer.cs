@@ -46,8 +46,8 @@
             this.btnSourceZipFile.BackColor = System.Drawing.Color.LightSkyBlue;
             this.btnSourceZipFile.FlatAppearance.BorderSize = 0;
             this.btnSourceZipFile.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
-            this.btnSourceZipFile.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSourceZipFile.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSourceZipFile.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.btnSourceZipFile.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSourceZipFile.Location = new System.Drawing.Point(12, 98);
             this.btnSourceZipFile.Name = "btnSourceZipFile";
             this.btnSourceZipFile.Size = new System.Drawing.Size(199, 23);
@@ -61,8 +61,8 @@
             this.btnDestinationPath.BackColor = System.Drawing.Color.LightSkyBlue;
             this.btnDestinationPath.FlatAppearance.BorderSize = 0;
             this.btnDestinationPath.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
-            this.btnDestinationPath.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDestinationPath.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDestinationPath.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.btnDestinationPath.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDestinationPath.Location = new System.Drawing.Point(12, 168);
             this.btnDestinationPath.Name = "btnDestinationPath";
             this.btnDestinationPath.Size = new System.Drawing.Size(199, 23);
@@ -75,7 +75,7 @@
             // 
             this.btnExtract.FlatAppearance.BorderSize = 0;
             this.btnExtract.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
-            this.btnExtract.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnExtract.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.btnExtract.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExtract.Location = new System.Drawing.Point(198, 290);
             this.btnExtract.Name = "btnExtract";
@@ -109,6 +109,7 @@
             // 
             this.btnClearS.FlatAppearance.BorderSize = 0;
             this.btnClearS.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.btnClearS.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.btnClearS.Location = new System.Drawing.Point(218, 98);
             this.btnClearS.Name = "btnClearS";
             this.btnClearS.Size = new System.Drawing.Size(56, 23);
@@ -121,6 +122,7 @@
             // 
             this.btnClearD.FlatAppearance.BorderSize = 0;
             this.btnClearD.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.btnClearD.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.btnClearD.Location = new System.Drawing.Point(218, 168);
             this.btnClearD.Name = "btnClearD";
             this.btnClearD.Size = new System.Drawing.Size(56, 23);
@@ -153,7 +155,7 @@
             // 
             this.button1.FlatAppearance.BorderSize = 0;
             this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(450, 290);
             this.button1.Name = "button1";
