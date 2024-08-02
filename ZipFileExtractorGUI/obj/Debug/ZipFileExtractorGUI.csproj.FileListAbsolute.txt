@@ -8,3 +8,13 @@ D:\Coding\C#\ZipFileExtractorTool\GUI\ZipFileExtractorGUI\obj\Debug\ZipFileExtra
 D:\Coding\C#\ZipFileExtractorTool\GUI\ZipFileExtractorGUI\obj\Debug\ZipFileExtractorGUI.csproj.CoreCompileInputs.cache
 D:\Coding\C#\ZipFileExtractorTool\GUI\ZipFileExtractorGUI\obj\Debug\ZipFileExtractorGUI.exe
 D:\Coding\C#\ZipFileExtractorTool\GUI\ZipFileExtractorGUI\obj\Debug\ZipFileExtractorGUI.pdb
+D:\Coding\C#\ZipFileExtractorTool\GitRepo\ZipFileExtractorTool\ZipFileExtractorGUI\bin\Debug\ZipFileExtractorGUI.exe.config
+D:\Coding\C#\ZipFileExtractorTool\GitRepo\ZipFileExtractorTool\ZipFileExtractorGUI\bin\Debug\ZipFileExtractorGUI.exe
+D:\Coding\C#\ZipFileExtractorTool\GitRepo\ZipFileExtractorTool\ZipFileExtractorGUI\bin\Debug\ZipFileExtractorGUI.pdb
+D:\Coding\C#\ZipFileExtractorTool\GitRepo\ZipFileExtractorTool\ZipFileExtractorGUI\obj\Debug\ZipFileExtractorGUI.csproj.AssemblyReference.cache
+D:\Coding\C#\ZipFileExtractorTool\GitRepo\ZipFileExtractorTool\ZipFileExtractorGUI\obj\Debug\ZipFileExtractorGUI.ZipFileExtractorWindow.resources
+D:\Coding\C#\ZipFileExtractorTool\GitRepo\ZipFileExtractorTool\ZipFileExtractorGUI\obj\Debug\ZipFileExtractorGUI.Properties.Resources.resources
+D:\Coding\C#\ZipFileExtractorTool\GitRepo\ZipFileExtractorTool\ZipFileExtractorGUI\obj\Debug\ZipFileExtractorGUI.csproj.GenerateResource.cache
+D:\Coding\C#\ZipFileExtractorTool\GitRepo\ZipFileExtractorTool\ZipFileExtractorGUI\obj\Debug\ZipFileExtractorGUI.csproj.CoreCompileInputs.cache
+D:\Coding\C#\ZipFileExtractorTool\GitRepo\ZipFileExtractorTool\ZipFileExtractorGUI\obj\Debug\ZipFileExtractorGUI.exe
+D:\Coding\C#\ZipFileExtractorTool\GitRepo\ZipFileExtractorTool\ZipFileExtractorGUI\obj\Debug\ZipFileExtractorGUI.pdb

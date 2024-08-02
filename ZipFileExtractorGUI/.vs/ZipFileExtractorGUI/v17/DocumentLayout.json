@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Coding\\C#\\ZipFileExtractorTool\\GUI\\ZipFileExtractorGUI\\",
+  "WorkspaceRootPath": "D:\\Coding\\C#\\ZipFileExtractorTool\\GitRepo\\ZipFileExtractorTool\\ZipFileExtractorGUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C35BBFEC-7377-4FC8-9CF0-F45BCC032367}|ZipFileExtractorGUI.csproj|D:\\Coding\\C#\\ZipFileExtractorTool\\GUI\\ZipFileExtractorGUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C35BBFEC-7377-4FC8-9CF0-F45BCC032367}|ZipFileExtractorGUI.csproj|d:\\coding\\c#\\zipfileextractortool\\gitrepo\\zipfileextractortool\\zipfileextractorgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C35BBFEC-7377-4FC8-9CF0-F45BCC032367}|ZipFileExtractorGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C35BBFEC-7377-4FC8-9CF0-F45BCC032367}|ZipFileExtractorGUI.csproj|d:\\coding\\c#\\zipfileextractortool\\gui\\zipfileextractorgui\\zipfileextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C35BBFEC-7377-4FC8-9CF0-F45BCC032367}|ZipFileExtractorGUI.csproj|solutionrelative:zipfileextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C35BBFEC-7377-4FC8-9CF0-F45BCC032367}|ZipFileExtractorGUI.csproj|D:\\Coding\\C#\\ZipFileExtractorTool\\GitRepo\\ZipFileExtractorTool\\ZipFileExtractorGUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35BBFEC-7377-4FC8-9CF0-F45BCC032367}|ZipFileExtractorGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C35BBFEC-7377-4FC8-9CF0-F45BCC032367}|ZipFileExtractorGUI.csproj|d:\\coding\\c#\\zipfileextractortool\\gui\\zipfileextractorgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C35BBFEC-7377-4FC8-9CF0-F45BCC032367}|ZipFileExtractorGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C35BBFEC-7377-4FC8-9CF0-F45BCC032367}|ZipFileExtractorGUI.csproj|D:\\Coding\\C#\\ZipFileExtractorTool\\GitRepo\\ZipFileExtractorTool\\ZipFileExtractorGUI\\zipfileextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35BBFEC-7377-4FC8-9CF0-F45BCC032367}|ZipFileExtractorGUI.csproj|solutionrelative:zipfileextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "zipFileExtractor.cs",
-              "DocumentMoniker": "D:\\Coding\\C#\\ZipFileExtractorTool\\GUI\\ZipFileExtractorGUI\\zipFileExtractor.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\ZipFileExtractorTool\\GitRepo\\ZipFileExtractorTool\\ZipFileExtractorGUI\\zipFileExtractor.cs",
               "RelativeDocumentMoniker": "zipFileExtractor.cs",
-              "ToolTip": "D:\\Coding\\C#\\ZipFileExtractorTool\\GUI\\ZipFileExtractorGUI\\zipFileExtractor.cs",
+              "ToolTip": "D:\\Coding\\C#\\ZipFileExtractorTool\\GitRepo\\ZipFileExtractorTool\\ZipFileExtractorGUI\\zipFileExtractor.cs",
               "RelativeToolTip": "zipFileExtractor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -39,11 +39,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Coding\\C#\\ZipFileExtractorTool\\GUI\\ZipFileExtractorGUI\\Form1.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\ZipFileExtractorTool\\GitRepo\\ZipFileExtractorTool\\ZipFileExtractorGUI\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Coding\\C#\\ZipFileExtractorTool\\GUI\\ZipFileExtractorGUI\\Form1.cs",
+              "ToolTip": "D:\\Coding\\C#\\ZipFileExtractorTool\\GitRepo\\ZipFileExtractorTool\\ZipFileExtractorGUI\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAwwDcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -54,9 +54,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Coding\\C#\\ZipFileExtractorTool\\GUI\\ZipFileExtractorGUI\\Form1.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\ZipFileExtractorTool\\GitRepo\\ZipFileExtractorTool\\ZipFileExtractorGUI\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Coding\\C#\\ZipFileExtractorTool\\GUI\\ZipFileExtractorGUI\\Form1.cs [Design]",
+              "ToolTip": "D:\\Coding\\C#\\ZipFileExtractorTool\\GitRepo\\ZipFileExtractorTool\\ZipFileExtractorGUI\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T19:30:05.824Z",

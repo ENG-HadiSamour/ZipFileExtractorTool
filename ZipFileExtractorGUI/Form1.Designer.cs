@@ -57,7 +57,7 @@
             // 
             // btnExtract
             // 
-            this.btnExtract.Location = new System.Drawing.Point(305, 268);
+            this.btnExtract.Location = new System.Drawing.Point(348, 290);
             this.btnExtract.Name = "btnExtract";
             this.btnExtract.Size = new System.Drawing.Size(237, 53);
             this.btnExtract.TabIndex = 2;
@@ -67,31 +67,35 @@
             // 
             // txtZipFilePath
             // 
+            this.txtZipFilePath.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.txtZipFilePath.Location = new System.Drawing.Point(217, 98);
             this.txtZipFilePath.Name = "txtZipFilePath";
             this.txtZipFilePath.ReadOnly = true;
-            this.txtZipFilePath.Size = new System.Drawing.Size(601, 20);
+            this.txtZipFilePath.Size = new System.Drawing.Size(654, 20);
             this.txtZipFilePath.TabIndex = 3;
             // 
             // txtDestinationPath
             // 
+            this.txtDestinationPath.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.txtDestinationPath.Location = new System.Drawing.Point(217, 168);
             this.txtDestinationPath.Name = "txtDestinationPath";
             this.txtDestinationPath.ReadOnly = true;
-            this.txtDestinationPath.Size = new System.Drawing.Size(601, 20);
+            this.txtDestinationPath.Size = new System.Drawing.Size(654, 20);
             this.txtDestinationPath.TabIndex = 4;
             // 
             // ZipFileExtractorWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(836, 333);
+            this.ClientSize = new System.Drawing.Size(889, 355);
             this.Controls.Add(this.txtDestinationPath);
             this.Controls.Add(this.txtZipFilePath);
             this.Controls.Add(this.btnExtract);
             this.Controls.Add(this.btnDestinationPath);
             this.Controls.Add(this.btnSourceZipFile);
+            this.MinimumSize = new System.Drawing.Size(905, 394);
             this.Name = "ZipFileExtractorWindow";
             this.Text = "Zip File Extractor tool";
             this.ResumeLayout(false);
