@@ -190,6 +190,7 @@
             this.Controls.Add(this.btnExtract);
             this.Controls.Add(this.btnDestinationPath);
             this.Controls.Add(this.btnSourceZipFile);
+            this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(905, 394);
             this.MinimumSize = new System.Drawing.Size(905, 394);
             this.Name = "ZipFileExtractorWindow";
