@@ -167,7 +167,7 @@
             // 
             this.lblStatus.AutoSize = true;
             this.lblStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblStatus.Location = new System.Drawing.Point(411, 242);
+            this.lblStatus.Location = new System.Drawing.Point(12, 233);
             this.lblStatus.Name = "lblStatus";
             this.lblStatus.Size = new System.Drawing.Size(53, 16);
             this.lblStatus.TabIndex = 10;
@@ -190,6 +190,7 @@
             this.Controls.Add(this.btnExtract);
             this.Controls.Add(this.btnDestinationPath);
             this.Controls.Add(this.btnSourceZipFile);
+            this.MaximumSize = new System.Drawing.Size(905, 394);
             this.MinimumSize = new System.Drawing.Size(905, 394);
             this.Name = "ZipFileExtractorWindow";
             this.Text = "Zip File Extractor tool";
