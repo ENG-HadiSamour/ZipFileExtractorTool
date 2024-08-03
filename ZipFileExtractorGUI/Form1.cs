@@ -93,7 +93,7 @@ namespace ZipFileExtractorGUI
             {
                 lblStatus.Text = $"Error: {ex.Message}";
                 //MessageBox.Show($"Error extracting: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                //string errorMessage = $"Error extracting {zipFilePath}:{ex.Message}";
+                //string errorMessage = $"Error extracting {zipFilePathSave}:{ex.Message}";
                 //MessageBox.Show(errorMessage, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 //LogError(errorMessage);
             }
