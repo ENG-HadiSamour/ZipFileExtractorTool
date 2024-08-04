@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipFileExtractorGUI", "ZipFileExtractorGUI.csproj", "{C35BBFEC-7377-4FC8-9CF0-F45BCC032367}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ZipFileExtractorInstaller", "..\ZipFileExtractorInstaller\ZipFileExtractorInstaller.vdproj", "{4AF44A11-C1C1-4C93-BD08-6F16FCF29B8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{C35BBFEC-7377-4FC8-9CF0-F45BCC032367}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C35BBFEC-7377-4FC8-9CF0-F45BCC032367}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C35BBFEC-7377-4FC8-9CF0-F45BCC032367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF44A11-C1C1-4C93-BD08-6F16FCF29B8E}.Debug|Any CPU.ActiveCfg = Debug
+		{4AF44A11-C1C1-4C93-BD08-6F16FCF29B8E}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
